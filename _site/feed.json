@@ -1,0 +1,37 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Blog",
+    "home_page_url": "/",
+    "feed_url": "/feed.json",
+    "description": "Bernky",
+    "icon": "/apple-touch-icon.png",
+    "favicon": "/favicon.ico",
+    "expired": false,
+    
+    "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
+    
+"items": [
+    
+        {
+            "id": "/2021/01/04/first",
+            "title": "First!",
+            "summary": null,
+            "content_text": "This is great stuff.The current trends I see laying out when it comes to decentralization and self hosting is the use of simplistic formarts such as markdown. Such formats allow a variety of parsing engines to be implemented such as jekyll. Allowing me to simply create content without the worry of vulnerabilities due to complex web stacks. Static websites are enough for me. No comment sections, forum, anything that requires more than 100 frameworks, 8 host providers and daily security checkups.  PortabilityThis is a nice perk. If anything were to happen to github in the idea of it being shutdown or unpopular in the future. I simply copy my .md files and move about my day to another service provider. Same goes for jekyll. If jekyll were to somehow become a dead project. I could simply move on to the latest and greatest markdown parsing engine with blog aware tech.In the mean time I will enjoy using github as a provider for my blog and jekyll for my writing. Hope anyone reading these posts enjoy my blog. Have a great day/night ❤️",
+            "content_html": "<p>This is great stuff.</p><p>The current trends I see laying out when it comes to decentralization and self hosting is the use of simplistic formarts such as <code>markdown</code>. Such formats allow a variety of parsing engines to be implemented such as jekyll. Allowing me to simply create content without the worry of vulnerabilities due to complex web stacks. Static websites are enough for me. No comment sections, forum, anything that requires more than 100 frameworks, 8 host providers and daily security checkups.</p><ul>  <li>Portability</li></ul><p>This is a nice perk. If anything were to happen to github in the idea of it being shutdown or unpopular in the future. I simply copy my .md files and move about my day to another service provider. Same goes for jekyll. If jekyll were to somehow become a dead project. I could simply move on to the latest and greatest markdown parsing engine with blog aware tech.</p><p>In the mean time I will enjoy using github as a provider for my blog and jekyll for my writing. Hope anyone reading these posts enjoy my blog. Have a great day/night ❤️</p>",
+            "url": "/2021/01/04/first",
+            
+            
+            
+            
+            
+            "date_published": "2021-01-04T15:56:00-05:00",
+            "date_modified": "2021-01-04T15:56:00-05:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        }
+    
+    ]
+}
